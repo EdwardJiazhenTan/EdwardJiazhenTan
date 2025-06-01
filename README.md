@@ -9,24 +9,6 @@
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-
-**Web & Cloud:**  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)  
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)  
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-
----
-
 ## 💻 About Me
 
 I'm passionate about minimalism and highly customized workflows. I enjoy building clean, efficient systems — whether it's my development environment or software stack.
@@ -68,9 +50,9 @@ Java-based CLI implementation of a Reversi AI using **Minimax with Alpha-Beta pr
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
-![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardJiazhenTan&show_icons=true&hide_title=true&hide=issues&theme=default)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Edward51322?theme=catppuccinMocha&font=Noto%20Sans%20Zanabazar%20Square&ext=heatmap)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardJiazhenTan&layout=compact&hide=Jupyter%20Notebook)
 
