@@ -1,21 +1,9 @@
 # 👋 Hi, I'm Edward Tan
 
 🎓 CS + Business IS @ University of Rochester (High Distinction)  
-🔭 Building **LeetTrack**, an AI-powered LeetCode planner  
 🌱 Learning **Next.js** & **Azure**  
 🎯 2025 Goal: Open-source contributions  
-🎮 Fun fact: I love video games, but I suck at them  
 🌐 [Portfolio](https://EdwardJiazhenTan.github.io)
-
----
-
-## 💻 About Me
-
-I enjoy minimalist, highly customized systems — especially on Linux.  
-Currently using [Arch](https://archlinux.org/), [Hyprland](https://hyprland.org/), [Neovim](https://neovim.io/), [HyDE](https://github.com/HyDE-Project/HyDE).  
-🛠️ [My dotfiles](https://github.com/EdwardJiazhenTan/dotfiles)
-
----
 
 ## 🚀 Projects
 
