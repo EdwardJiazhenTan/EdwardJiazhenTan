@@ -3,28 +3,46 @@
 🎓 CS + Business IS @ University of Rochester (High Distinction)  
 🌱 Learning **Next.js** & **Azure**  
 🎯 2025 Goal: Open-source contributions  
-🌐 [Portfolio](https://EdwardJiazhenTan.github.io)
+🌐 [Portfolio](https://edwardjtan.com)
 
-## 🚀 Projects
+## 🛠️ Technical Skills
+
+**Languages**: JavaScript, TypeScript, Python, Rust  
+**Frontend**: React, Next.js, Three.js, Tailwind CSS  
+**Backend**: Flask, PostgreSQL, SQLAlchemy  
+**Tools**: Git, Docker, LaTeX, CI/CD
+
+## 🚧 Ongoing Projects
+
+### 🔹 [LeetTrack](https://github.com/EdwardJiazhenTan/LeetTrack)
+
+AI-powered LeetCode path & review platform  
+Built with Next.js, Flask, and PostgreSQL
+
+### 🔹 [RustDrop](https://github.com/EdwardJiazhenTan/RustDrop)
+
+Rust-based HTTP file transfer tool  
+Fast and secure file sharing solution
+
+## ✅ Finished Projects
 
 ### 🔹 [react-gaussian-splat](https://github.com/EdwardJiazhenTan/react-gaussian-splat)
 
-3D Gaussian renderer using React + Three.js  
-↪ [rfviser backend](https://github.com/PKU-VCL-Geometry/rfviser)
+3D Gaussian renderer using React + Three.js
 
-### 🔹 [Portfolio Site](https://EdwardJiazhenTan.github.io)
+### 🔹 [Portfolio Site](https://edwardjtan.com)
 
-Built with React + React Spring animations
+Built with React spring animations
 
-### 🔹 [AI Reversi](https://github.com/EdwardJiazhenTan/AI-reversi-game)
+### 🔹 [Resume Workflows](https://github.com/EdwardJiazhenTan/Resume-workflow)
 
-Minimax + Alpha-Beta pruning in under 1K lines of Java
+Auto-generate resume based on AI suggestions in LaTeX
 
 ---
 
 ## 📊 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Edward51322?theme=catppuccinMocha&font=Noto%20Sans%20Zanabazar%20Square&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Edward51322?theme=catppuccinMocha&ext=heatmap)
 
 ---
 
